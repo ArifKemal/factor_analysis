@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Data
+*.csv
+*.xlsx
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
